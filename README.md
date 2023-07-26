@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddharthajha07?tab=repositories](https://github.com/siddharthajha07?tab=repositories)
 
-- 📝 I have recently graduated from [Concordia University (MACS)](Concordia University (MACS))
+- 📝 I have recently graduated from **Concordia University (MACS), Montreal**
 
 - 💬 Ask me about **java, problem solving, master**
 
@@ -25,6 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddharthajha07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharthajha07" height="30" width="40" /></a>
+<a href="https://instagram.com/siddharthajha.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddharthajha.07" height="30" width="40" /></a>
 </p>
 
 
