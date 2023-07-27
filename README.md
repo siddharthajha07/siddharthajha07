@@ -9,13 +9,13 @@
 
 - 📝 I have recently graduated from **Concordia University (MACS), Montreal**
 
-- 💬 Ask me about **java, problem solving, master**
+- 💬 Ask me about **java, spring framework, problem solving**
 
 - 📫 How to reach me **siddharthajha07@gmail.com**
 
 - 📄 Know about my experiences [http://siddharthajha07.github.io](http://siddharthajha07.github.io)
 
-- ⚡ Fun fact **I am an automobile enthusiast.**
+- ⚡ Fun fact: **I am an automobile enthusiast.**
 
 
 
